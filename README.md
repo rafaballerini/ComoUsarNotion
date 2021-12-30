@@ -1,6 +1,6 @@
 # Como criar e personalizar páginas no Notion
 
-[Nesse vídeo você aprenderá a desenvolver 3 páginas no Notion para organização](https://www.youtube.com/watch?v=weRgbHstLw8)
+[Nesse vídeo](https://www.youtube.com/watch?v=weRgbHstLw8) você aprenderá a desenvolver 3 páginas no Notion para organização
 
 1. Criação de uma conta do zero no [site do Notion](https://ntn.so/rafaellanotion)
 
