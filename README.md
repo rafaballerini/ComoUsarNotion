@@ -1,5 +1,7 @@
 # Como criar e personalizar páginas no Notion
 
+[Nesse vídeo você aprenderá a desenvolver 3 páginas no Notion para organização](https://www.youtube.com/watch?v=weRgbHstLw8)
+
 1. Criação de uma conta do zero no [site do Notion](https://ntn.so/rafaellanotion)
 
 2. Escolher o plano pessoal, porém ele não te permite adicionar pessoas pra poderem editar e acompanharem o seu workspace, pra isso você utiliza o plano de time, que dependendo da quantidade de pessoas e das permissões delas é pago
@@ -68,6 +70,8 @@ Aqui também utilizaremos um tamplate base, chamado `Engineering Wiki`, dentro d
 
 
 ## Finalização
+
+Você encontra esses templates feitos [nesse link](https://stream-porcupine-f40.notion.site/Templates-8d402940e140454ba79d6c7521b9e53b)
 
 Se quiserem que eu traga um vídeo mostrando como automatizar as tarefas no Notion ou como consumir dados de uma API, deixa aqui nos comentários que eu vou adorar ensinar vocês!
 
